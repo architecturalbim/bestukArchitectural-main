@@ -18,9 +18,9 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
           href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=PT+Sans:wght@400;700&display=swap"
-          rel="stylesheet"
-<meta name="google-site-verification" content="R5-G4Z02h_RxVS8TL7mvuj6GEC_mVch7EDWpk0UlGEc" />
+          rel="stylesheet"/>
   <link rel="canonical" href="https://bestukarchitectural.vercel.app/"/>
+<meta name="google-site-verification" content="R5-G4Z02h_RxVS8TL7mvuj6GEC_mVch7EDWpk0UlGEc" />
       </head>
       <body className="font-body antialiased">{children}</body>
     </html>
